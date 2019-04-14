@@ -1,4 +1,4 @@
 # Slices-Encryption
-Programme de chiffrement/Déchiffrement via une méthode personnelle
+Cyphering/Decyphering program using a personal method
 
-Programme réalisé en 2016 (L2)
+Program made in 2016
